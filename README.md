@@ -5,14 +5,17 @@
 This dataset comprises data on recent Bachelor's degree graduates from various universities in the USA and their employment status. It encompasses variables like gender, age, field of study, university attended, placement status, salary upon placement (if applicable), GPA, and years of experience. The dataset offers insights into the employment landscape for Bachelor's degree holders, facilitating analyses of placement trends, comparison of placement rates among universities, and exploration of factors influencing employment success.
 
 ## Variables
+- Id
+- Name
 - Gender: Gender of the graduate (male or female)
 - Age: Age of the graduate at the time of graduation
-- Field of Study: Area of specialization for the Bachelor's degree
-- University Name: Name of the university where the graduate obtained the degree
+- Degree: Area of specialization for the Bachelor's degree
+- Stream
+- College Name: Name of the university where the graduate obtained the degree
 - Placement Status: Whether the graduate was placed or not (placed/not placed)
-- Salary upon Placement: Salary offered upon placement (if applicable)
+- Salary 
 - GPA: Grade Point Average of the graduate
-- Years of Experience: Years of work experience at the time of graduation
+- Years of Experience
 
 ## Objective
 The objective of this dataset is to provide insights into the employment outcomes of Bachelor's degree graduates in the USA. The following questions can be answered using this dataset:
@@ -25,5 +28,9 @@ The objective of this dataset is to provide insights into the employment outcome
 6. What is the average salary offered to Bachelor's degree graduates upon placement?
 
 ## Analysis
++
+The dataset containing information about Bachelor's degree graduates from various universities in the USA reveals several noteworthy insights. With an <span style="color:green">overall placement rate of 81.43% </span>, it indicates a relatively high level of success among graduates in securing employment upon completing their degree programs.
+
+This high placement rate underscores the effectiveness of Bachelor's degree programs offered by universities in the USA in preparing students for the workforce. It reflects positively on the quality of education, curriculum, and career services provided by these institutions, as well as their ability to equip graduates with the necessary skills and competencies sought after by employers.
 
 ## Conclusion
