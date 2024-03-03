@@ -55,6 +55,16 @@ Conclusion:
 While GPA may have some influence on placement rate, it is not the sole determining factor. Other factors such as relevant experience, networking, interview performance, and extracurricular activities may also play significant roles in securing employment opportunities. Therefore, while maintaining a good GPA is important, it is equally crucial for Bachelor's degree graduates to focus on developing a well-rounded skill set and actively engaging in professional development activities to enhance their chances of placement.
 
 
+| Stream                          | Average GPA | Placed Percentage (%) |
+|--------------------------------|-------------|-----------------------|
+| Electronics and Communication   | 3.76        | 90.99                 |
+| Information Technology          | 3.77        | 84.21                 |
+| Electrical Engineering          | 3.76        | 80.36                 |
+| Mechanical Engineering          | 3.71        | 81.08                 |
+| Computer Science                | 3.75        | 75.23                 |
+
+
+
 
 
 ## Conclusion
