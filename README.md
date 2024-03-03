@@ -28,8 +28,8 @@ The objective of this dataset is to provide insights into the employment outcome
 6. What is the average salary offered to Bachelor's degree graduates upon placement?
 
 ## Analysis
-+
-The dataset containing information about Bachelor's degree graduates from various universities in the USA reveals several noteworthy insights. With an <span style="color:green">overall placement rate of 81.43% </span>, it indicates a relatively high level of success among graduates in securing employment upon completing their degree programs.
+
+The dataset containing information about Bachelor's degree graduates from various universities in the USA reveals several noteworthy insights. With an **overall placement rate of 81.43%**, it indicates a relatively high level of success among graduates in securing employment upon completing their degree programs.
 
 This high placement rate underscores the effectiveness of Bachelor's degree programs offered by universities in the USA in preparing students for the workforce. It reflects positively on the quality of education, curriculum, and career services provided by these institutions, as well as their ability to equip graduates with the necessary skills and competencies sought after by employers.
 
